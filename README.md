@@ -27,9 +27,14 @@ Open `.env` and replace `your_api_key_here` with your actual key from [console.a
 
 ## Notebooks
 
+### API Basics
+
 | File | Topic |
 |------|-------|
-| `001.ipynb` | Basic API request |
-| `002_multi_round.ipynb` | Multi-turn conversations |
-| `003_chat_bot.ipynb` | Interactive chat bot |
-| `004_system_prompt.ipynb` | System prompts |
+| `API_basics/001_api_consuming.ipynb` | Basic API request |
+| `API_basics/002_multi_round.ipynb` | Multi-turn conversations |
+| `API_basics/003_chat_bot.ipynb` | Interactive chat bot |
+| `API_basics/004_system_prompt.ipynb` | System prompts |
+| `API_basics/005_temperature.ipynb` | Temperature |
+| `API_basics/006_response_streaming.ipynb` | Response streaming |
+| `API_basics/007_structured_data.ipynb` | Structured data |
